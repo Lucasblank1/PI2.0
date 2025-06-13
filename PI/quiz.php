@@ -78,7 +78,7 @@ $perguntas = [
         ],
         [
             'pergunta' => 'Qual foi o sistema econômico predominante no Brasil Colonial?',
-            'opcoes' => ['Plantation', 'Mercantilismo', 'Feudalismo', 'Capitalismo'],
+            'opcoes' => ['Plantação', 'Mercantilismo', 'Feudalismo', 'Capitalismo'],
             'resposta' => 'Plantation'
         ],
         [
